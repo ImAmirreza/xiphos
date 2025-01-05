@@ -34,7 +34,7 @@
 
 #define MAX_THREADS                  256
 #define DEFAULT_THREADS              1
-#define DEFAULT_HASH_SIZE_IN_MB      128
+#define DEFAULT_HASH_SIZE_IN_MB      1
 #define MAX_HASH_SIZE_IN_MB          65536
 
 #define MAX_DEPTH                    100
